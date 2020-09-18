@@ -1,0 +1,15 @@
+{
+  "name": "rust-netlify-function",
+  "collaborators": [
+    "Brian 'bdougie' Douglas <ilikerobot@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_netlify_function_bg.wasm",
+    "rust_netlify_function.js",
+    "rust_netlify_function_bg.js",
+    "rust_netlify_function.d.ts"
+  ],
+  "main": "rust_netlify_function.js",
+  "types": "rust_netlify_function.d.ts"
+}
