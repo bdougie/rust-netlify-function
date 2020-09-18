@@ -1,0 +1,20 @@
+{
+  "name": "rust-netlify-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:wasm": "wasm-pack build --out-dir functions/hello/pkg --target nodejs"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdougie/rust-netlify-function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdougie/rust-netlify-function/issues"
+  },
+  "homepage": "https://github.com/bdougie/rust-netlify-function#readme"
+}
